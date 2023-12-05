@@ -16,7 +16,7 @@ Ultimately, it also serves as an example of how technology can enhance and reima
 
 ### Methodology
 1. Story Analysis <br>
-Analyze the original fairy tale, "The Fisherman and His Wife," to extract its core narrative, characters, emotions, events, and moral themes.
+Analyze the original fairy tale, "LITTLE RED RIDING HOOD", to extract its core narrative, characters, emotions, events, and moral themes.
 
 2. Developing MJ prompts <br>
 Using the extracted components, MJ Prompts will be developed to capture different perspectives and scenes from the story, enhancing the variety of generated images.
