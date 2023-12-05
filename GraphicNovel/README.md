@@ -5,9 +5,9 @@
 #### Author : [Tejal Rawale](https://www.linkedin.com/in/tejal-rawale/)
 
 ### Aim 
-The aim of this project is to produce a captivating graphic novel adaptation of the classic fairy tale "LITTLE RED RIDING HOOD" by employing generative AI tools and descriptive prompts. 
+The aim of this project is to produce a captivating graphic novel adaptation of the classic fairy tale "Little Red Riding Hood" by employing generative AI tools and descriptive prompts. 
 This project intends to artistically depict the tale's moral lessons, character development, and the consequences of greed through a visually compelling narrative that engages and resonates with the audience.
-This project will explore how generative AI tools and descriptive prompts can be effectively employed to visually adapt and enhance the classic fairy tale "LITTLE RED RIDING HOOD" while preserving its narrative integrity, emotional depth, and moral messaging.
+This project will explore how generative AI tools and descriptive prompts can be effectively employed to visually adapt and enhance the classic fairy tale "Little Red Riding Hood" while preserving its narrative integrity, emotional depth, and moral messaging.
 
 ### Why is it interesting?
 It is interesting because of the fusion of traditional storytelling with AI-driven visual artistry, showcasing the transformative potential of technology in creative expression. 
@@ -16,7 +16,7 @@ Ultimately, it also serves as an example of how technology can enhance and reima
 
 ### Methodology
 1. Story Analysis <br>
-Analyze the original fairy tale, "LITTLE RED RIDING HOOD", to extract its core narrative, characters, emotions, events, and moral themes.
+Analyze the original fairy tale, "Little Red Riding Hood", to extract its core narrative, characters, emotions, events, and moral themes.
 
 2. Developing MJ prompts <br>
 Using the extracted components, MJ Prompts will be developed to capture different perspectives and scenes from the story, enhancing the variety of generated images.
